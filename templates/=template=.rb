@@ -1,10 +1,4 @@
 #!/usr/bin/env ruby
-#
-# %FFILE%
-# Copyright (C) %YEAR% %USER% <%MAIL%>
-#
-# Distributed under terms of the %LICENSE% license.
-#
-
+# vim: ts=2 sts=2 sw=2 et ai
 
 %HERE%
