@@ -1,0 +1,5 @@
+# vim: ft=ruby ts=2 sts=2 sw=2 et ai
+
+Vagrant.configure(2) do |config|
+  %HERE%
+end
